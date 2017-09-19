@@ -1,4 +1,4 @@
-var config = {
+module.exports = {
     	"consumerKey": "XXX",
     	"consumerSecret": "XXX",
     	"accessToken": "XXX",
