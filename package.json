@@ -1,0 +1,16 @@
+{
+  "name": "twittercli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tweet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JEngdahl",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "request": "^2.82.0",
+    "twitter-node-client": "0.0.6"
+  }
+}
